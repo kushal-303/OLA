@@ -1,6 +1,6 @@
-# 🚗 OLA Ride Analytics: SQL & Power BI
+# 🚗 OLA Trends Analytics: SQL & Power BI
 
-This project contains SQL queries and Power BI prompts designed to analyze ride booking data. It focuses on key business metrics such as booking success rates, customer behavior, vehicle performance, and payment methods.
+This project contains SQL queries and Power BI prompts designed to analyze  booking data. It focuses on key business metrics such as booking success rates, customer behavior, vehicle performance, and payment methods.
 
 ## 📊 Key Insights
 
