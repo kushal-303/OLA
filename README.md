@@ -40,5 +40,3 @@ Run the queries in OLA_trends.sql to generate analytical views.
 
 Open the .pbix file in Power BI to explore the interactive dashboard.
 
-🙌 Acknowledgments
-Inspired by real-world ride-hailing analytics challenges and designed for portfolio-ready data analysis practice.
