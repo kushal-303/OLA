@@ -1,42 +1,36 @@
-🚖 OLA Ride Booking Analysis
-This project contains SQL views and a Power BI dashboard to analyze ride-booking trends and performance for OLA.
-It covers key metrics such as booking success rates, cancellations, customer ratings, and revenue performance by vehicle type.
+# 🚗 OLA Ride Analytics: SQL & Power BI
 
-📊 Key Insights
-Total successful bookings
+This project contains SQL queries and Power BI prompts designed to analyze ride booking data. It focuses on key business metrics such as booking success rates, customer behavior, vehicle performance, and payment methods.
 
-Average ride distance by vehicle type
+## 📊 Key Insights
 
-Total rides cancelled by customers
+- Total number of successful and cancelled bookings  
+- Average ride distance by vehicle type  
+- Top customers by ride count and booking value  
+- Driver cancellation reasons  
+- Rating analysis by vehicle type  
+- Payment method usage and revenue contribution  
+- Daily ride distribution and distance trends  
+- Customer vs. driver rating comparison  
+- Category-wise performance metrics  
+- Revenue per ride and per category  
 
-Top 5 customers by ride count
+## 🧠 Technologies Used
 
-Driver cancellations due to personal & car issues
+- SQL (PostgreSQL / MySQL compatible)  
+- Power BI Desktop / Service  
 
-Max and min driver ratings for Prime Sedan rides
+## 📂 Files
 
-UPI payment transactions
+- `SQL Questions.txt`: Contains 10 SQL queries for ride analytics  
+- `Power BI Questions.txt`: Contains 10 visualization   
 
-Average customer rating per vehicle type
+## 🚀 How to Use
 
-Total revenue from successful rides
+1. Load your ride booking dataset into a SQL-compatible engine.  
+2. Run the queries from `SQL Questions.txt` to extract insights.  
+3. Use `Power BI Questions.txt` for visualizations.  
+4. Explore trends, behaviors, and performance metrics to inform business decisions.
 
-List of incomplete rides with reasons
 
-🧠 Technologies Used
-SQL (MySQL) – Data querying, aggregation, and view creation
-
-Power BI – Data modeling, visualization, and dashboard building
-
-📂 Files
-OLA_trends.sql – Contains all SQL views and queries
-
-OLA Project power BI.pbix – Power BI dashboard file
-
-🚀 How to Use
-Import your OLA bookings dataset into MySQL or any compatible SQL engine.
-
-Run the queries in OLA_trends.sql to generate analytical views.
-
-Open the .pbix file in Power BI to explore the interactive dashboard.
 
