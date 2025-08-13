@@ -1,4 +1,4 @@
-# 🚗 OLA Trends Analytics: SQL & Power BI
+# 🚗 OLA Trends and Cancellation rate Analytics: SQL & Power BI
 
 This project contains SQL queries and Power BI prompts designed to analyze  booking data. It focuses on key business metrics such as booking success rates, customer behavior, vehicle performance, and payment methods.
 
